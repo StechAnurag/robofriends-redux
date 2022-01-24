@@ -1,6 +1,8 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "id": "/robofriends-redux/index.html",
+  "short_name": "Robo Friends",
+  "name": "Robo Friends Online",
+  "description":"Friends are robots and robots are friends.",
   "icons": [
     {
       "src": "favicon.ico",
